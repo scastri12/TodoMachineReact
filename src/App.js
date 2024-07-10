@@ -10,6 +10,7 @@ const defaultTodos = [
   { text: 'Llorar con la llorona', completed: false},
   { text: 'Regar las plantas', completed: false},
   { text: 'Estudiar react', completed: false},
+  { text: 'Usar estados derivados', completed: true},
 ]
 
 function App() {
